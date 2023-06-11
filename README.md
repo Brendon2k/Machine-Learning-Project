@@ -1,8 +1,9 @@
 # Machine-Learning-Project
 Produced an in-depth report and built 9 machine learning models using 3 different datasets for Unsupervised learning, Regression and Classification tasks. Research questions were formulated and literature reviews were carried out for each problem and thereafter the machine learning models were built.
 
-All models were built using python
-Links for datasets can be found in the appendix of the report
+All models were built using python.
+
+Links for datasets can be found in the appendix of the report.
 
 ## TASK 1 – UNSUPERVISED LEARNING:
 The study used unsupervised learning on a wholesale customer dataset to analyze the distribution, correlation, and spending patterns of different products among retailers and HoReCa. _**PRINCIPAL COMPONENT ANALYSIS (PCA)**_ was employed to reduce the dimensionality of the data and identify key components. Thereafter, _**K-MEANS CLUSTERING**_ was used to identify clusters between each principal component.
